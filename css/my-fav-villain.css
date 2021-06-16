@@ -76,6 +76,9 @@ main{
 	margin: 0 auto;
 	padding: 20px 232px;
 	background-color: #c2b280;
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sunagakure_Symbol.svg/600px-Sunagakure_Symbol.svg.png);
+	background-size: 10px;
+	background-blend-mode: lighten;
 }
 
 h2{
