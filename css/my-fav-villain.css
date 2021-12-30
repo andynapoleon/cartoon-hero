@@ -72,7 +72,7 @@ h1{
 /* main styles */
 
 main{
-	width: 50%;
+	max-width: 100%;
 	margin: 0 auto;
 	padding: 20px 232px;
 	background-color: #c2b280;
@@ -141,7 +141,6 @@ footer{
 	text-align: center;
 	color: white;
 	padding: 50px;
-	width: 100%;
 }
 
 footer h3{
