@@ -72,7 +72,7 @@ h1{
 /* main styles */
 
 main{
-	max-width: 800px;
+	width: 50%;
 	margin: 0 auto;
 	padding: 20px 232px;
 	background-color: #c2b280;
@@ -100,7 +100,7 @@ main nav img{
 
 .text{
 	text-indent: 50px
-}	
+}
 
 .caption{
 	text-align: center;
@@ -127,7 +127,7 @@ main div img{
 
 a{
 	color: #7b0505;
-	
+
 }
 
 a:hover{
@@ -141,6 +141,7 @@ footer{
 	text-align: center;
 	color: white;
 	padding: 50px;
+	width: 100%;
 }
 
 footer h3{
