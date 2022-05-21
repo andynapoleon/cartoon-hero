@@ -1,3 +1,3 @@
-# cartoon-hero
-My favorite cartoon hero
-This is the codes from a tutorial on Skillshare.
+# MY FAVOURITE HERO WEBSITE
+A simple website made from only HTML and CSS providing information about my favourite cartoon hero.
+This was a final project from a Skillshare course.
